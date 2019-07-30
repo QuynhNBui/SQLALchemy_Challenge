@@ -44,7 +44,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 ## Step 2 - Climate App
 
-A Flask API, Climate_App.py was developed to return station, precipitation, temperature, and the temperature based on the trip date entered by users.
+[A Flask API](Climate_App.py) was developed to return station, precipitation, temperature, and the temperature based on the trip date entered by users.
 
 There are 5 available routes:
 /api/v1.0/precipitation<br/>
