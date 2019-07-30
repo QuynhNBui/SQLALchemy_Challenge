@@ -23,7 +23,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 * Pandas was used to print the summary statistics for the precipitation data.
 
-![precipitation_summary] (Outputs/Precipitation_Summary.png)
+![precipitation_summary](Outputs/Precipitation_Summary.png)
 
 ### Station Analysis
 
@@ -47,11 +47,11 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 A Flask API, Climate_App.py was developed to return station, precipitation, temperature, and the temperature based on the trip date entered by users.
 
 There are 5 available routes:
-/api/v1.0/precipitation<br/>"
-/api/v1.0/stations<br/>"
-/api/v1.0/tobs<br/>"
-/api/v1.0/datesearch/2016-08-01<br/>"
-/api/v1.0/datesearch/2016-08-01/2016-08-10<br/>"
+/api/v1.0/precipitation<br/>
+/api/v1.0/stations<br/>
+/api/v1.0/tobs<br/>
+/api/v1.0/datesearch/2016-08-01<br/>
+/api/v1.0/datesearch/2016-08-01/2016-08-10<br/>
 ### Routes
 
 
