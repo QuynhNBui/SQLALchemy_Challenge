@@ -23,7 +23,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 * Pandas was used to print the summary statistics for the precipitation data.
 
-![precipitation-summary](Outputs/Precipitation_Summary)
+![precipitation-summary](Outputs/Precipitation_Summary.png)
 
 ### Station Analysis
 
